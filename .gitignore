@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.local
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Build artefacts
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/agent_logs.json
+
+# Heavy model weights (don't push 250 MB to GitHub).
+# We do push training_curves.png + confusion_matrix.png + metrics_v2.json so
+# the prof can see the actual results without re-running training.
+model/lookking_model.pt
+
+# Other personal/local
+generate_defense_pdf.py
+lookking/

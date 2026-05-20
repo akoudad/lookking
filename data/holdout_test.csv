@@ -1,0 +1,31 @@
+query,candidate,label
+"I really need a great place to eat tonight in Rabat","Riad Zamane - luxury restaurant in Rabat, cuisine: moroccan, rated 4.6/5, website available",high
+"Looking for an authentic Moroccan tagine spot Casablanca","Dar Beida - casual restaurant in Casablanca, cuisine: moroccan, rated 4.3/5",high
+"Need a gym near my hotel in Marrakech","Atlas Fitness - casual gym in Marrakech, rated 4.1/5, phone available",high
+"Cosy cafe to do some work in Fes","Cafe Clock - casual cafe in Fes, rated 4.5/5, website available",high
+"My back hurts, find me a good spa in Agadir","Atlantic Spa - luxury spa in Agadir, rated 4.7/5",high
+"Cheap haircut today in Tangier","Quick Barber - budget hairdresser in Tangier, rated 3.8/5",high
+"Where can I sleep tonight in Meknes","Ryad Bahia - casual hotel in Meknes, rated 4.2/5, website available",high
+"Need to buy bread for the family Rabat","Boulangerie Paul - casual bakery in Rabat, rated 4.0/5",high
+"Hammam relaxing afternoon Marrakech","Hammam Royal - luxury spa in Marrakech, rated 4.8/5",high
+"Best bar in Casablanca with a good vibe","Sky Lounge - luxury bar in Casablanca, rated 4.4/5",high
+"Quick lunch budget option Fes","Snack Express - budget fast_food in Fes, rated 3.7/5",high
+"Pharmacy open right now in Agadir","Pharmacie Centrale - casual pharmacy in Agadir, rated 4.0/5",high
+"I want to eat sushi in Casablanca","Tokyo Bites - casual restaurant in Casablanca, cuisine: sushi, rated 4.5/5",high
+"Family-friendly hotel for the weekend Marrakech","Riad Family - casual hotel in Marrakech, rated 4.3/5, website available",high
+"Healthy breakfast cafe with wifi Rabat","Green Cafe - casual cafe in Rabat, rated 4.6/5, website available",high
+"Sushi place in Rabat","Hammam Royal - luxury spa in Marrakech, rated 4.8/5",low
+"Cheap haircut Casablanca","Le Grand Hotel - luxury hotel in Casablanca, rated 4.7/5",low
+"Spa for massage Agadir","Pizza Roma - casual restaurant in Marrakech, cuisine: italian, rated 4.1/5",low
+"Gym near me Tangier","Boulangerie Paul - casual bakery in Rabat, rated 4.0/5",low
+"Pharmacy open now Fes","Sky Lounge - luxury bar in Casablanca, rated 4.4/5",low
+"Restaurant for dinner Meknes","Pharmacie Centrale - casual pharmacy in Agadir, rated 4.0/5",low
+"Cafe morning coffee Marrakech","Atlas Fitness - casual gym in Marrakech, rated 4.1/5",low
+"Hotel for the weekend Rabat","Quick Barber - budget hairdresser in Tangier, rated 3.8/5",low
+"Italian restaurant Casablanca","La Trattoria - luxury restaurant in Marrakech, cuisine: italian, rated 4.5/5",medium
+"Luxury spa Rabat","Urban Spa - casual spa in Casablanca, rated 3.9/5",medium
+"Gym fitness Fes","Iron Body - casual gym in Tangier, rated 4.0/5",medium
+"Cafe coffee Tangier","Cafe Central - casual cafe in Rabat, rated 4.2/5",medium
+"Hotel luxury Marrakech","City Inn - casual hotel in Casablanca, rated 3.8/5",medium
+"Barber shop Casablanca","Elite Barber - luxury hairdresser in Rabat, rated 4.6/5",medium
+"Bakery fresh bread Agadir","Pain Royal - luxury bakery in Fes, rated 4.4/5",medium

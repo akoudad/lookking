@@ -1,0 +1,26 @@
+{
+  "accuracy": 1.0,
+  "best_val_accuracy": 1.0,
+  "confusion_matrix": [
+    [
+      15,
+      0,
+      0
+    ],
+    [
+      0,
+      15,
+      0
+    ],
+    [
+      0,
+      0,
+      29
+    ]
+  ],
+  "label_names": [
+    "Low Match",
+    "Medium Match",
+    "High Match"
+  ]
+}

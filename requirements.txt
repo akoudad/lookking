@@ -1,0 +1,22 @@
+# Core AI / multi-agent
+crewai>=1.14.4
+litellm>=1.55.0
+
+# LLM provider SDKs (we hit them via litellm so SDKs are optional, but pinning
+# google's keeps the native Gemini path available as a fallback).
+google-generativeai>=0.8.6
+
+# Deep learning
+torch>=2.4.0
+transformers>=4.40.0
+
+# Telegram bot
+python-telegram-bot>=22.0
+
+# Data / utils
+pandas>=2.0.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+python-dotenv>=1.0.0
+requests>=2.31.0
