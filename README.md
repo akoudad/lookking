@@ -29,7 +29,7 @@ It is built on three pillars:
 ## Quick start
 
 ```bash
-git clone <repo-url> lookking
+git clone https://github.com/akoudad/lookking.git lookking
 cd lookking
 
 # Python env
@@ -199,9 +199,9 @@ below the strictest free-tier limit (Groq 12k TPM).
 | Logging / observability | ✅ | `logs/agent_logs.json` every action timestamped |
 | Free / open stack | ✅ | All deps open-source, all APIs free tier |
 | Error handling & fallback | ✅ | Nominatim → CSV fallback, missing-model startup check |
-| Public GitHub repo | 🟡 | Code ready; push once branch protected |
+| Public GitHub repo | ✅ | https://github.com/akoudad/lookking |
 | Architecture diagram | ✅ | `docs/architecture.png` |
-| PDF report | 🟡 | Markdown ready, convert with Pandoc |
+| PDF report | ✅ | FINAL_REPORT.pdf in repo root |
 | Slides | 🟡 | Outline in `STRATEGIC_DECISIONS.md` |
 | Demo video | 🟡 | To record |
 
