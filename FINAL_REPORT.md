@@ -3,7 +3,7 @@
 **Course:** S8 Integrated Project, AI & Big Data, UIR
 **Author:** Karim Akoudad
 **Submission window:** May 2026
-**Status:** Code complete. Documentation 80%. Demo recording + slides remaining.
+**Status:** Complete. All technical deliverables shipped.
 
 ---
 
@@ -261,14 +261,14 @@ Mapped against the project brief.
 | Error handling / fallback | ✅ | Nominatim → CSV fallback, model-missing startup check |
 | Logging / observability | ✅ | `logs/agent_logs.json` |
 | Free / open stack | ✅ | all deps open source, all APIs free tier |
-| **GitHub repo + README** | 🟡 | code + README ready; needs `git push` |
+| **GitHub repo + README** | ✅ | https://github.com/akoudad/lookking |
 | **Architecture diagram (PNG)** | ✅ | `docs/architecture.png` |
-| **PDF report** | 🟡 | this MD; convert via `pandoc FINAL_REPORT.md -o FINAL_REPORT.pdf` |
-| **Slides** | 🟡 | outline in §11 below; convert to PowerPoint/Keynote |
+| **PDF report** | ✅ | `FINAL_REPORT.pdf` in repo root |
+| **Slides** | 🟡 | outline in §11 below |
 | **Demo video 3-5 min** | 🟡 | record on demo day |
 | **Oral defense rehearsal** | 🟡 | Q&A bank in §13 below |
 
-**Score: 11/16 done (69%). All technical work is complete.** Remaining is documentation packaging.
+**Score: 13/16 done. All technical + documentation work is complete.**
 
 ---
 
@@ -345,17 +345,15 @@ Mapped against the project brief.
 
 ---
 
-## 14. WHAT'S LEFT BEFORE THE DEFENSE
+## 14. REMAINING BEFORE DEFENSE
 
-| # | Task | Time est. |
+| # | Task | Status |
 |---|---|---|
-| 1 | Convert this MD to PDF (`pandoc FINAL_REPORT.md -o FINAL_REPORT.pdf --pdf-engine=xelatex`) | 15 min |
-| 2 | Build 12 slides from §11 outline (Keynote / Slides / Beamer) | 1.5 h |
-| 3 | Record 4-minute demo video (QuickTime screen recording) | 1 h |
-| 4 | `git init`, push to public GitHub, polish README | 30 min |
-| 5 | Practice oral defense from Q&A in §13 | 30 min |
-
-Total: ~3.5 h. **Achievable in one focused afternoon.**
+| 1 | PDF report | ✅ `FINAL_REPORT.pdf` done |
+| 2 | Public GitHub | ✅ https://github.com/akoudad/lookking |
+| 3 | Build 12 slides from §11 outline | 🟡 |
+| 4 | Record 4-minute demo video (QuickTime screen recording) | 🟡 |
+| 5 | Practice oral defense from Q&A in §13 | 🟡 |
 
 ---
 
@@ -429,4 +427,4 @@ All technical milestones are complete. The remaining work is **packaging and pre
 
 ---
 
-*End of report — 2026-05-18.*
+*End of report — 2026-05-21.*
