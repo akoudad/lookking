@@ -114,7 +114,3 @@ LLM_PROVIDER=cerebras python3 main.py
 - No result persistence between sessions
 
 ---
-
-## Author
-
-Karim Akoudad — UIR, AI & Big Data, 2026.
